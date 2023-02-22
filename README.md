@@ -8,9 +8,9 @@ This is the readme file for the Login-Signup project. The purpose of this file i
 
 To install Login-Signup, follow these steps:
 
-1.Clone the repository: `https://github.com/Arvind-Kumar-Mahato/Allconnect-task1.git`
+1.Clone the repository: `https://github.com/Arvind-Kumar-Mahato/Allconnect-task1.git`.
 
-2.Install dependencies: `npm install`
+2.Install dependencies: `npm install`.
 
 # 🚦 Usage
 
@@ -18,9 +18,9 @@ To use  Login-Signup, follow these steps:
 
 1.Navigate to the project directory: `cd userlogin`.
 
-2.Run the project: `npm start`
+2.Run the project: `npm start`.
 
-2.Open a web browser and navigate to `http://localhost:3000`
+2.Open a web browser and navigate to `http://localhost:3000`.
 
 
 
