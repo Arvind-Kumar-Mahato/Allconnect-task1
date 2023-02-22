@@ -15,8 +15,11 @@ To install Login-Signup, follow these steps:
 # 🚦 Usage
 
 To use  Login-Signup, follow these steps:
+
 1.Navigate to the project directory: `cd userlogin`.
+
 2.Run the project: `npm start`
+
 2.Open a web browser and navigate to `http://localhost:3000`
 
 
