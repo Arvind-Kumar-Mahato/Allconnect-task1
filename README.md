@@ -1,7 +1,12 @@
+#Getting Started with Login-Signup
+This is the readme file for the Login-Signup project. The purpose of this file is to provide instructions on how to run the project and any necessary setup.
+
+
 # 📝 Installation
 
 To install Login-Signup, follow these steps:
 1.Clone the repository: `https://github.com/Arvind-Kumar-Mahato/Allconnect-task1.git`
+
 2.Install dependencies: `npm install`
 
 # 🚦 Usage
